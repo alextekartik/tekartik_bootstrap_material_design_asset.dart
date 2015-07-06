@@ -1,0 +1,12 @@
+name: 'tekartik_bootstrap_material_design_asset'
+version: 0.3.0
+description: Boostrap material design assets
+author: Alexandre Roux <alex@tekartik.com>
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+dev_dependencies:
+  tekartik_bootstrap_asset:
+    git: git://github.com/alextekartik/tekartik_bootstrap_asset.dart
+  tekartik_jquery_asset:
+    git: git://github.com/alextekartik/tekartik_jquery_asset.dart

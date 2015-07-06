@@ -1,2 +1,3 @@
-# tekartik_bootstrap_material_design_asset.dart
-boostrap material design assets for dart
+# boostrap material design assets for dart
+
+Copied from http://fezvrasta.github.io/bootstrap-material-design/ matching the dart expected layout
